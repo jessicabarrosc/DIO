@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{1A05F28D-A4E2-471D-BABB-9FEC4C73F149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{BD07022D-FF58-478E-90E9-D9CBBF6DA08D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTeste", "CursoTeste\CursoTeste.csproj", "{2E6BBF5E-5046-47AA-A04E-5F6D0418DAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A05F28D-A4E2-471D-BABB-9FEC4C73F149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A05F28D-A4E2-471D-BABB-9FEC4C73F149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A05F28D-A4E2-471D-BABB-9FEC4C73F149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A05F28D-A4E2-471D-BABB-9FEC4C73F149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD07022D-FF58-478E-90E9-D9CBBF6DA08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD07022D-FF58-478E-90E9-D9CBBF6DA08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD07022D-FF58-478E-90E9-D9CBBF6DA08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD07022D-FF58-478E-90E9-D9CBBF6DA08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6BBF5E-5046-47AA-A04E-5F6D0418DAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6BBF5E-5046-47AA-A04E-5F6D0418DAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6BBF5E-5046-47AA-A04E-5F6D0418DAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6BBF5E-5046-47AA-A04E-5F6D0418DAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E81CCE3D-E3CE-467C-A3E5-E59DB847A238}
+	EndGlobalSection
+EndGlobal
